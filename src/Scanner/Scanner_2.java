@@ -1,4 +1,4 @@
-package _01_veriables;
+package Scanner;
 
 import java.util.Scanner;
 
