@@ -21,7 +21,7 @@ public class Scanner_9 {
         System.out.println("saniyeyi giriniz");
         int saniye=scan.nextInt();
         int toplamSaniye=saat*3600+dakika*60+ saniye;
-        System.out.println("toplamSaniye" +toplamSaniye + "saniye");
+        System.out.println("toplamSaniye : " +toplamSaniye + " saniye");
 
     }
 }
